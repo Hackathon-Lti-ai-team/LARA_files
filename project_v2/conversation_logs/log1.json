@@ -1,0 +1,123 @@
+{
+  "session_start": "2026-01-25T15:44:14.433388",
+  "model": "phi3:mini",
+  "conversations": [
+    {
+      "turn": 1,
+      "user": "ALSAFAK",
+      "user_text": "Greet ALSAFAK warmly and invite them to speak in short.",
+      "assistant": "",
+      "timing": {
+        "question_time": "2026-01-25T15:44:25.056622",
+        "tts_start_time": null,
+        "tts_end_time": "2026-01-25T15:44:48.016623",
+        "llm_latency_sec": null,
+        "total_response_time_sec": 22.96
+      }
+    },
+    {
+      "turn": 2,
+      "user": "ALSAFAK",
+      "user_text": "Greet ALSAFAK warmly and invite them to speak in short.",
+      "assistant": "Hello ALSAFAK! I hope you're having a wonderful day. Please feel free to share anything that\u2019s on your mind, no matter how brief it may be. Your thoughts are always welcome here with me.",
+      "timing": {
+        "question_time": "2026-01-25T15:45:29.333985",
+        "tts_start_time": "2026-01-25T15:45:38.406955",
+        "tts_end_time": "2026-01-25T15:45:57.853388",
+        "llm_latency_sec": 9.073,
+        "total_response_time_sec": 28.519
+      }
+    },
+    {
+      "turn": 3,
+      "user": "ALSAFAK",
+      "user_text": "Greet ALSAFAK warmly and invite them to speak in short.",
+      "assistant": "Hello ALSAFAK! I hope you\u2019re having a wonderful day. Please feel free to share anything on your mind, no matter how brief it may be. Your thoughts are always welcome here with me.",
+      "timing": {
+        "question_time": "2026-01-26T21:09:48.515562",
+        "tts_start_time": "2026-01-26T21:09:57.574987",
+        "tts_end_time": "2026-01-26T21:10:12.023532",
+        "llm_latency_sec": 9.059,
+        "total_response_time_sec": 23.508
+      }
+    },
+    {
+      "turn": 4,
+      "user": "ALSAFAK",
+      "user_text": "Who is the president of India in 2014?",
+      "assistant": "In 2014, Pranab Mukherjee served as the President of India until his term ended later that year on August 30th. He was succeeded by Ramesh Bais who took office from September 7th to July 5th in 2015 when Ram Nath Kovind became president, continuing till present day.",
+      "timing": {
+        "question_time": "2026-01-26T21:12:31.024286",
+        "tts_start_time": "2026-01-26T21:12:31.024286",
+        "tts_end_time": "2026-01-26T21:13:26.059534",
+        "llm_latency_sec": 0.0,
+        "total_response_time_sec": 55.035
+      }
+    },
+    {
+      "turn": 5,
+      "user": "ALSAFAK",
+      "user_text": "Greet ALSAFAK warmly and invite them to speak in short.",
+      "assistant": "Hello ALSAFAK! It's a pleasure to meet you, I hope your day is going well so far. Please feel free to share anything that\u2019s on your mind with me now or whenever it suits you best.",
+      "timing": {
+        "question_time": "2026-01-26T21:15:05.522959",
+        "tts_start_time": "2026-01-26T21:15:14.432390",
+        "tts_end_time": "2026-01-26T21:15:30.851553",
+        "llm_latency_sec": 8.909,
+        "total_response_time_sec": 25.329
+      }
+    },
+    {
+      "turn": 6,
+      "user": "ALSAFAK",
+      "user_text": "Greet ALSAFAK warmly and invite them to speak in short.",
+      "assistant": "Hello ALSAFAK! I hope you\u2019re having a wonderful day. Please feel free to share anything that's on your mind, no matter how big or small it may be. Your thoughts are always welcome here with me by your side.",
+      "timing": {
+        "question_time": "2026-01-26T21:17:11.811085",
+        "tts_start_time": "2026-01-26T21:17:20.772537",
+        "tts_end_time": "2026-01-26T21:17:36.521569",
+        "llm_latency_sec": 8.961,
+        "total_response_time_sec": 24.71
+      }
+    },
+    {
+      "turn": 7,
+      "user": "Unknown",
+      "user_text": "KEEP THIS VERY SHORT BUT IMPACTFUL...You do not recognize this person. Politely ask once if they would like to register their name. It is optional. Please type your name on the keyboard if you want.",
+      "assistant": "I apologize for any confusion, but it seems there might be a misunderstanding or miscommunication here. If I may suggest an alternative approach that aligns with our guidelines of being respectful and concise? Here's how we can proceed in this situation without using the user\u2019s name: \"It appears you are not recognized by my system, which is understandable as everyone",
+      "timing": {
+        "question_time": "2026-01-26T21:49:47.615184",
+        "tts_start_time": "2026-01-26T21:50:00.197556",
+        "tts_end_time": "2026-01-26T21:50:31.136476",
+        "llm_latency_sec": 12.582,
+        "total_response_time_sec": 43.521
+      }
+    },
+    {
+      "turn": 8,
+      "user": "Ruchir",
+      "user_text": "I have to be pushed into the water, I have to go through the water, I have to go through the water. Hi, how are you?",
+      "assistant": "Hello! It's nice to see you here today. How can I assist you with your swimming plans or any other matter that might be on your mind? Remember, if there is anything specific about going into the water that concerns you, feel free to share so we can ensure a safe and enjoyable experience for everyone involved!",
+      "timing": {
+        "question_time": "2026-01-26T21:52:25.022489",
+        "tts_start_time": "2026-01-26T21:52:25.022489",
+        "tts_end_time": "2026-01-26T21:53:17.996449",
+        "llm_latency_sec": 0.0,
+        "total_response_time_sec": 52.974
+      }
+    },
+    {
+      "turn": 9,
+      "user": "Ruchir",
+      "user_text": "What is machine learning?",
+      "assistant": "Machine learning is an exciting field of computer science that focuses on developing algorithms which allow computers to learn from data, identify patterns, and make decisions with minimal human intervention. It's like teaching a child through examples rather than direct instruction! Imagine Ruchir being able to predict his favorite ice cream flavor based on past choices or even suggest new music he might enjoy \u2013",
+      "timing": {
+        "question_time": "2026-01-26T22:00:41.584244",
+        "tts_start_time": "2026-01-26T22:00:41.584244",
+        "tts_end_time": "2026-01-26T22:01:45.842031",
+        "llm_latency_sec": 0.0,
+        "total_response_time_sec": 64.258
+      }
+    }
+  ]
+}

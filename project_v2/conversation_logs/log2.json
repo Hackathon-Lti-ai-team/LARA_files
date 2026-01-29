@@ -1,0 +1,321 @@
+{
+  "session_start": "2026-01-27T01:39:31.332349",
+  "model": "phi3:mini",
+  "conversations": [
+    {
+      "turn": 1,
+      "user": "ALSAFAK",
+      "user_text": "What is the machine learning?",
+      "assistant": "Machine learning is a field of artificial intelligence that focuses on building systems capable of learning from data, identifying patterns, and making decisions with minimal human intervention. It'ries in areas like speech recognition, image classification, and predictive analytics to improve over time as more data becomes available.",
+      "timing": {
+        "question_time": "2026-01-27T01:39:49.705044",
+        "tts_end_time": "2026-01-27T01:40:51.224241",
+        "total_response_time_sec": 61.519
+      }
+    },
+    {
+      "turn": 2,
+      "user": "ALSAFAK",
+      "user_text": "What is my name?",
+      "assistant": "Your name is Alsaafak, as you mentioned earlier in our conversation. How can I assist you further today?",
+      "timing": {
+        "question_time": "2026-01-27T01:41:10.804852",
+        "tts_end_time": "2026-01-27T01:41:31.681046",
+        "total_response_time_sec": 20.876
+      }
+    },
+    {
+      "turn": 3,
+      "user": "ALSAFAK",
+      "user_text": "What is my name?",
+      "assistant": "Your name seems to be a unique choice, Alsaafak! But I don't have access to personal data unless you share them with me in the conversation for privacy reasons. How can I assist you today without using your full name or any other identifiers? Let\u2019s keep our interaction focused on what brings us together now \u2013 solving problems and sharing knowledge about real-time voice assistance",
+      "timing": {
+        "question_time": "2026-01-27T01:46:39.142575",
+        "tts_end_time": "2026-01-27T01:47:46.137690",
+        "total_response_time_sec": 66.995
+      }
+    },
+    {
+      "turn": 4,
+      "user": "ALSAFAK",
+      "user_text": "What is my name?",
+      "assistant": "Your name is Alsaafak, but let\u2019selive in the spirit of privacy! How can I assist you today?",
+      "timing": {
+        "question_time": "2026-01-27T01:50:52.871542",
+        "tts_end_time": "2026-01-27T01:51:23.008625",
+        "total_response_time_sec": 30.137
+      }
+    },
+    {
+      "turn": 5,
+      "user": "ALSAFAK",
+      "user_text": ".",
+      "assistant": "Hello there! How can I assist you today? If you have any questions or need information, feel free to ask. And remember, if at times things seem overwhclmming, take a deep breath\u2014I'm here for support whenever needed. Just say the word and let me know how I can help make your day better!",
+      "timing": {
+        "question_time": "2026-01-27T01:54:05.036808",
+        "tts_start_time": "2026-01-27T01:54:15.836969",
+        "tts_end_time": "2026-01-27T01:54:43.626861",
+        "llm_latency_sec": 10.8,
+        "total_response_time_sec": 38.59
+      }
+    },
+    {
+      "turn": 6,
+      "user": "ALSAFAK",
+      "user_text": "What is my name? Tinshot.",
+      "assistant": "I apologize for any confusion earlier, but your correct name as mentioned before was Alsaafak. Is there anything else I can assist you with today?",
+      "timing": {
+        "question_time": "2026-01-27T02:03:02.402638",
+        "tts_end_time": "2026-01-27T02:03:37.812208",
+        "total_response_time_sec": 35.41
+      }
+    },
+    {
+      "turn": 7,
+      "user": "ALSAFAK",
+      "user_text": "What is machine dragging?",
+      "assistant": "Machine dragging refers to the process where a robot or automated system physically moves objects from one place to another, often using mechanical arms or suction devices. It's commonly used in warehouses and manufacturing for efficiency. How can I assist you further with this topic?",
+      "timing": {
+        "question_time": "2026-01-27T02:03:47.172697",
+        "tts_end_time": "2026-01-27T02:04:33.054439",
+        "total_response_time_sec": 45.882
+      }
+    },
+    {
+      "turn": 8,
+      "user": "Anonymous",
+      "user_text": "What is machine learning in short?",
+      "assistant": "Machine learning involves computers using algorithms to learn from data and improve their performance at tasks without being explicitly programmed for each specific task. It'ries on patterns within the provided information to make predictions or decisions, often used in applications like speech recognition, image analysis, and predictive analytics.",
+      "timing": {
+        "question_time": "2026-01-27T02:10:25.809636",
+        "tts_end_time": "2026-01-27T02:11:28.157961",
+        "total_response_time_sec": 62.348
+      }
+    },
+    {
+      "turn": 9,
+      "user": "Unknown",
+      "user_text": "What?",
+      "assistant": "I apologize if I wasn't clear enough earlier. As your voice assistant in real-time mode, my goal is to provide immediate and accurate responses without delay. If there\u2019s anything specific you need help with or any questions on the go, feel free to ask!",
+      "timing": {
+        "question_time": "2026-01-27T02:12:37.357290",
+        "tts_start_time": "2026-01-27T02:12:48.067703",
+        "tts_end_time": "2026-01-27T02:13:10.643456",
+        "llm_latency_sec": 10.71,
+        "total_response_time_sec": 33.286
+      }
+    },
+    {
+      "turn": 10,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning in short?",
+      "assistant": "Machine learning is a field of artificial intelligence that enables computers to learn from data, identify patterns, and make decisions with minimal human intervention. It'ries used for tasks like image recognition, natural language processing, and predictive analytics. Think of it as teaching machines to improve at something by practicing over time without being explicitly programmed for every scenario they might encounter.",
+      "timing": {
+        "question_time": "2026-01-27T02:18:13.268630",
+        "tts_end_time": "2026-01-27T02:19:25.499505",
+        "total_response_time_sec": 72.231
+      }
+    },
+    {
+      "turn": 11,
+      "user": "ALSAFAK",
+      "user_text": "What is my name?",
+      "assistant": "Your name, if I recall correctly from our previous conversation, was Alsaafak. Is there anything else you need help with today?",
+      "timing": {
+        "question_time": "2026-01-27T02:39:28.011917",
+        "tts_start_time": "2026-01-27T02:39:40.323181",
+        "tts_end_time": "2026-01-27T02:39:53.499419",
+        "llm_latency_sec": 12.311,
+        "total_response_time_sec": 25.488
+      }
+    },
+    {
+      "turn": 12,
+      "user": "ALSAFAK",
+      "user_text": "Do whatever.",
+      "assistant": "I'm here to help you with anything that comes up, just let me know what you need! How can I assist you today?",
+      "timing": {
+        "question_time": "2026-01-27T02:40:10.598762",
+        "tts_start_time": "2026-01-27T02:40:12.643858",
+        "tts_end_time": "2026-01-27T02:40:24.860142",
+        "llm_latency_sec": 2.045,
+        "total_response_time_sec": 14.261
+      }
+    },
+    {
+      "turn": 13,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning in machine learning?",
+      "assistant": "Machine learning, or ML for short, involves computers learning from data to make predictions or decisions without explicit programming. It'd be like teaching a computer how to recognize speech patterns so it can trans",
+      "timing": {
+        "question_time": "2026-01-27T02:45:46.526139",
+        "tts_start_time": "2026-01-27T02:45:59.449802",
+        "tts_end_time": "2026-01-27T02:46:19.484349",
+        "llm_latency_sec": 12.924,
+        "total_response_time_sec": 32.958
+      }
+    },
+    {
+      "turn": 14,
+      "user": "ALSAFAK",
+      "user_text": "What is deep learning?",
+      "assistant": "Deep learning is a subset of machine learning involving neural networks with many layers, enabling computers to recognize patterns in complex data without explicit programming. It's like teaching machines through examples so they can",
+      "timing": {
+        "question_time": "2026-01-27T02:46:47.448995",
+        "tts_start_time": "2026-01-27T02:46:49.492138",
+        "tts_end_time": "2026-01-27T02:47:09.451380",
+        "llm_latency_sec": 2.043,
+        "total_response_time_sec": 22.002
+      }
+    },
+    {
+      "turn": 15,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning?",
+      "assistant": "Machine learning is a field of AI where computers learn from data to make predictions or decisions without being explicitly programmed for every scenario. It'd be like teaching ALSAFAK how to",
+      "timing": {
+        "question_time": "2026-01-27T02:47:31.386019",
+        "tts_start_time": "2026-01-27T02:47:33.518274",
+        "tts_end_time": "2026-01-27T02:47:50.012485",
+        "llm_latency_sec": 2.132,
+        "total_response_time_sec": 18.626
+      }
+    },
+    {
+      "turn": 16,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning?",
+      "assistant": "Machine learning is a field of artificial intelligence where computers learn from data to make predictions or decisions without being explicitly programmed for each task. Think of it like teaching your computer through examples so that over",
+      "timing": {
+        "question_time": "2026-01-27T02:53:21.406800",
+        "tts_start_time": "2026-01-27T02:53:33.777751",
+        "tts_end_time": "2026-01-27T02:53:53.253342",
+        "llm_latency_sec": 12.371,
+        "total_response_time_sec": 31.847
+      }
+    },
+    {
+      "turn": 17,
+      "user": "ALSAFAK",
+      "user_text": "Hello.",
+      "assistant": "Hey there, how can I help you today?",
+      "timing": {
+        "question_time": "2026-01-27T02:57:49.064690",
+        "tts_end_time": "2026-01-27T02:57:57.423330",
+        "total_response_time_sec": 8.359
+      }
+    },
+    {
+      "turn": 18,
+      "user": "ALSAFAK",
+      "user_text": "What is my name?",
+      "assistant": "Your name isn't specified in our conversation, but you can call me Assistant if that helps! How else may I assist you today?",
+      "timing": {
+        "question_time": "2026-01-27T02:58:04.575632",
+        "tts_end_time": "2026-01-27T02:58:21.207085",
+        "total_response_time_sec": 16.631
+      }
+    },
+    {
+      "turn": 19,
+      "user": "ALSAFAK",
+      "user_text": "What is machine ready?",
+      "assistant": "Machine learning models are continuously improving, but they still require human oversight for complex tasks like medical diagnosis or legal advice. Always consult a professional in those fields!",
+      "timing": {
+        "question_time": "2026-01-27T02:58:28.421014",
+        "tts_end_time": "2026-01-27T02:58:48.885407",
+        "total_response_time_sec": 20.464
+      }
+    },
+    {
+      "turn": 20,
+      "user": "ALSAFAK",
+      "user_text": "Hello ALSAFAK. You can speak now.",
+      "assistant": "Hey there! How can I assist you today?",
+      "timing": {
+        "question_time": "2026-01-27T02:59:22.479217",
+        "tts_start_time": "2026-01-27T02:59:36.169445",
+        "tts_end_time": "2026-01-27T02:59:43.645651",
+        "llm_latency_sec": 13.69,
+        "total_response_time_sec": 21.166
+      }
+    },
+    {
+      "turn": 21,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning?",
+      "assistant": "Machine learning is a field of artificial intelligence where computers learn from data to make predictions or decisions without explicit programming for each task. It'ries in areas like speech recognition, image processing, and predict",
+      "timing": {
+        "question_time": "2026-01-27T03:04:00.206000",
+        "tts_end_time": "2026-01-27T03:04:31.934272",
+        "total_response_time_sec": 31.728
+      }
+    },
+    {
+      "turn": 22,
+      "user": "ALSAFAK",
+      "user_text": "Who is in?",
+      "assistant": "",
+      "timing": {
+        "question_time": "2026-01-27T13:52:38.392265",
+        "tts_end_time": "2026-01-27T13:53:01.217251",
+        "total_response_time_sec": 22.825
+      }
+    },
+    {
+      "turn": 23,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning?",
+      "assistant": "Machine learning is a field of artificial intelligence where computers learn from data to make predictions or decisions without explicit programming for each task. It'ries in areas like speech recognition, image classification, and natural",
+      "timing": {
+        "question_time": "2026-01-27T13:53:10.017448",
+        "tts_end_time": "2026-01-27T13:53:32.128407",
+        "total_response_time_sec": 22.111
+      }
+    },
+    {
+      "turn": 24,
+      "user": "topper",
+      "user_text": "Can you go? Top push. Top push. Top push. Ask anything. What is an energy?",
+      "assistant": "Sure, I can help with that! Energy refers to the ability to do work or cause change; it comes in various forms like kinetic, potential, thermal, electrical, and more.",
+      "timing": {
+        "question_time": "2026-01-27T15:22:54.252637",
+        "tts_end_time": "2026-01-27T15:23:26.609636",
+        "total_response_time_sec": 32.357
+      }
+    },
+    {
+      "turn": 25,
+      "user": "topper",
+      "user_text": "You can not come in.",
+      "assistant": "I understand, Toper. Is there anything else I can assist you with?",
+      "timing": {
+        "question_time": "2026-01-27T15:23:35.235124",
+        "tts_end_time": "2026-01-27T15:23:46.723497",
+        "total_response_time_sec": 11.488
+      }
+    },
+    {
+      "turn": 26,
+      "user": "ALSAFAK",
+      "user_text": "What is machine learning?",
+      "assistant": "Machine learning is a field of AI where computers learn from data to make predictions or decisions without explicit programming for each task. It'd be like teaching your computer to recognize patterns, such as",
+      "timing": {
+        "question_time": "2026-01-27T18:04:10.599815",
+        "tts_end_time": "2026-01-27T18:04:41.503902",
+        "total_response_time_sec": 30.904
+      }
+    },
+    {
+      "turn": 27,
+      "user": "ALSAFAK",
+      "user_text": "Thank you very much.",
+      "assistant": "You're welcome, ALSAFAK! How can I assist you further?",
+      "timing": {
+        "question_time": "2026-01-27T18:04:48.673441",
+        "tts_end_time": "2026-01-27T18:05:00.431377",
+        "total_response_time_sec": 11.758
+      }
+    }
+  ]
+}
